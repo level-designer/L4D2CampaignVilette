@@ -10,11 +10,13 @@ Map structure could be reused for other source games.
 
 ## NB
 I don't consider myself owner of this project. Only a simple contributor.
+Assets created for this campaign could be put on specific market place (high res textures/models)
 
 ## Resources
 - google Map with satelite layer and 3D view + their measuring distance tool.
 - official map
 - personal photos
+- https://eisenmanarchitects.com/La-Villette-1987 
 
 ## How to contribute:
 - add/evolve gameplay idea
